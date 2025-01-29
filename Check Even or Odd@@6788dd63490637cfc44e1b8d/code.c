@@ -7,5 +7,5 @@ int main(){
     printf("Even\n");
     else
     printf("Odd\n");
-    reverse 0;
+   return 0;
 }
