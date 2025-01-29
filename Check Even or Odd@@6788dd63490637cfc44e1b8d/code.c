@@ -4,8 +4,8 @@ int main(){
     printf("Enter a single integer:");
     scanf("%d ",&a);
     if(a%2==0)
-    printf("True");
+    printf("Even\n");
     else
-    printf("False");
+    printf("Odd\n");
     reverse 0;
 }
