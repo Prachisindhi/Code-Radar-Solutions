@@ -1,11 +1,10 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
     int a;
-    printf("Enter a single integer:");
-    scanf("%d ",&a);
+    scanf("%d",&a);
     if(a%2==0)
-    printf("Even\n");
+    printf("Even\n",a);
     else
-    printf("Odd\n");
-   return 0;
+    printf("Odd\n",a);
+    return 0;
 }
