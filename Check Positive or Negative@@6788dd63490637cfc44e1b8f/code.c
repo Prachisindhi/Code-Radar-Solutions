@@ -4,11 +4,11 @@ int main(){
     int a;
     scanf("%d",&a);
     if(a>0){
-    printf("Positive %d\n",a);}
+    printf("Positive %d",a);}
     else if(a==0){
-    printf("Zero %d\n",a);}
+    printf("Zero %d",a);}
     else{
-    printf("Negative %d\n",a);}
+    printf("Negative %d",a);}
     
     return 0;
 }
