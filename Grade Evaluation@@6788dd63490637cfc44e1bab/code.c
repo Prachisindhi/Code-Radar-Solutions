@@ -13,7 +13,7 @@ int main(){
     else if(a=='F')
     printf("Fail");
     else
-    printf("Invalid Triangle");
+    printf("Invalid Grade");
     return 0;
 
 
