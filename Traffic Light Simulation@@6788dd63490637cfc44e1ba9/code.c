@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    chr a;
+    char a;
     scanf("%c",&a);
     switch(a)
     case 'R':
