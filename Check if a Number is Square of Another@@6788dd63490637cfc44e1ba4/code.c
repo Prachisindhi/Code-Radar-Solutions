@@ -1,8 +1,9 @@
 #include <stdio.h>
 int main(){
-    int a,b;
+    int a,b,num;
     scanf("%d %d",&a,&b);
-    if(sqrt(a)%b==0)
+    num=a*a;
+    if(num%b==0)
     printf("Yes");
     else
     printf("No");
