@@ -3,7 +3,7 @@ int main(){
     int i;
     while(i<=N)
     {
-        printf(*);
+        printf("*");
         i++;
     }
     return 0;
